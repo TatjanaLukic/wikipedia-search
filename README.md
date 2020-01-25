@@ -10,3 +10,8 @@ This is simple React app, here you can find example of using:
 - axios lib for sending request to wikipedia api
 - mapping array to components 
 - a bit of semantic-ui
+
+## `Usage`
+
+You can checkout link: https://tatjanalukic.github.io/wikipedia-search where app is hosted 
+or run it locally.
